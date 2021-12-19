@@ -64,7 +64,7 @@ After analyzing the data set by launch date and graphing out the results of the 
 ###Outcomes based on Funding Goal?
 <!--- What can you conclude about the Outcomes based on Goals?  -->
 
-After analyzing the data set by funding goal, one major conclusion became obvious. For a funding campaign to have a chance at being success it should be limited to under 15,000. Anything over 15,000 has an more than 60% chance of failing.  
+After analyzing the data set by funding goal, one major conclusion became obvious.For a funding campaign to have a chance at being success  
 
 ![](Resources/Outcomes_based_on_goal.png)
 
