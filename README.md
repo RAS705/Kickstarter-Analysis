@@ -7,7 +7,7 @@ We have been asked by Louise to help determine how to to setup a Kickstarter pro
 
 This project will take data from Kickstarter and analyze it to help Louise in determining how to run her next funding campaign. We will look at the two following questions:
 
-- Does when the funding campaign is started affect success of the campaign? 
+- Does start date of the funding campaign affect success of the campaign? 
 - How does the funding goal affect the success of a campaign? 
   
 
